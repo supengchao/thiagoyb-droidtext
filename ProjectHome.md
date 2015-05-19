@@ -1,0 +1,1 @@
+editor de texto para o Android. Projetos futuros: editor de  codigos.
